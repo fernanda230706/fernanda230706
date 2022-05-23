@@ -3,3 +3,4 @@
 - 🌱 Gosto de ver filmes 📺 ...
 
 <a href="https://scratch.mit.edu/projects/687062267" target="_blank"><img src="https://media2.giphy.com/media/Dojts2gzWhP5nqal1F/200w.gif" target="_blank"></a>
+<img src="https://media2.giphy.com/media/Dojts2gzWhP5nqal1F/200w.gif" width="40" height="40"/> <a href="https://scratch.mit.edu/projects/687062267" target="_blank">
